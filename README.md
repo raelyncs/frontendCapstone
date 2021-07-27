@@ -1,5 +1,5 @@
 # Front End Capstone
-This is a simple front-end focused product demo page where you can select from various products, their styles, reviews, price and add them to your cart. This project was created by a team of three engineers, where each member of our team took ownership of one of the following widgets: product overview, questions and answers, or ratings and reviews.
+This is a simple front-end focused product demo page where you can select from various products, their styles, prices, reviews, questions and answers, and add them to your cart. This project was created by a team of three engineers, where each member of our team took ownership of one of the following widgets: product overview, questions and answers, or ratings and reviews.
 
 ## Quick Start
 1. Clone this project
